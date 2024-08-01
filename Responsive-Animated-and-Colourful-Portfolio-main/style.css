@@ -960,3 +960,8 @@ section:nth-child(odd) .animate.scroll,
         width: 0;
     }
 }
+.footer {
+    background: var(--second-bg-color);
+    padding: 1rem;
+    text-align: center;
+}
