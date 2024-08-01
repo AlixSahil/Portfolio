@@ -2,10 +2,10 @@
  
 <figure>
   <figcaption>Website View (on desktop screen)</figcaption>
-<!--   <img src="images/website.gif" alt="Website View" width="700"> -->
+  <img src="Screen Recording 2024-08-02 020331.mp4" alt="Website View" width="700">
 </figure>
 
 <figure>
   <figcaption>Screenshot 1 (on desktop screen)</figcaption>
-<!--   <img src="images/Screenshot_1.png" alt="Screenshot 1" width="700"> -->
+  <img src="Screenshot 2024-08-02 020032.png" alt="Screenshot 1" width="700">
 </figure>
