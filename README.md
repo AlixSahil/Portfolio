@@ -2,7 +2,7 @@
  
 <figure>
   <figcaption>Website View (on desktop screen)</figcaption>
-  <img src="Screen Recording 2024-08-02 020331.mp4" alt="Website View" width="700">
+  <img src="Screen Recording 2024-08-02 020331.gif" alt="Website View" width="700">
 </figure>
 
 <figure>
